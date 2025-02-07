@@ -1,6 +1,6 @@
 # <div align='center'>Baileys - Typescript/Javascript WhatsApp Web API</div>
 
-<div align="center"><img src="[https://iili.io/2Zpjtlp.jpg](https://files.catbox.moe/0qtye8.jpg)"></div>
+<div align="center"><img src="https://iili.io/2Zpjtlp.jpg](https://files.catbox.moe/0qtye8.jpg"></div>
 
 ## Important Note
 

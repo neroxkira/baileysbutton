@@ -289,7 +289,7 @@ await sock.sendMessage(id, { text: "Hello Wold", ai: true })
 ```ts
 if(usePairingCode && !sock.authState.creds.registered) {
     const phoneNumber = await question('Please enter your mobile phone number:\n')
-    const custom = "NSTRCODE" // must be 8 digits, can be letters or numbers
+    const custom = "SKYSBRKR" // must be 8 digits, can be letters or numbers
     const code = await sock.requestPairingCode(phoneNumber, custom)
     console.log(`Pairing code: ${code?.match(/.{1,4}/g)?.join('-') || code}`)
 }
